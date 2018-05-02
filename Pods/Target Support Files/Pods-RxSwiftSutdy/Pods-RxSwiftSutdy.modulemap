@@ -1,0 +1,6 @@
+framework module Pods_RxSwiftSutdy {
+  umbrella header "Pods-RxSwiftSutdy-umbrella.h"
+
+  export *
+  module * { export * }
+}
